@@ -1,5 +1,9 @@
-.top-wrapper {
+body {
   background-image: url("blue0002.png");
+
+}
+
+.top-wrapper {
   color: white;
 }
 
